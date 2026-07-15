@@ -48,276 +48,6 @@
 			"color":"1"
 		},
 		{
-			"id":"1560ab426d2ff87d",
-			"type":"text",
-			"text":"[[Нисходящий удар|Приём: Нисходящий удар]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-860,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"561c663eb0c963c2",
-			"type":"text",
-			"text":"[[Владение Метательным оружием]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1155,
-			"y":-820,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"2ba14f369b6c0611",
-			"type":"text",
-			"text":"[[Удар с толчком|Приём: Удар с толчком]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-740,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"d348357fb5d00047",
-			"type":"text",
-			"text":"[[Удар по клинку|Приём: Удар по клинку]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-620,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"fe0c775d91e9a036",
-			"type":"text",
-			"text":"[[Восходящий удар|Приём: Восходящий удар]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-980,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"8b31d55be1661dd2",
-			"type":"text",
-			"text":"[[Удар с шагом назад|Приём: Удар с шагом назад]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-500,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"474035440e2cbc06",
-			"type":"text",
-			"text":"[[Косой удар|Приём: Косой удар]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-380,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"e88ec3135090a00c",
-			"type":"text",
-			"text":"[[Удар с выпадом|Приём: Удар с выпадом]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-260,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"68795e9c223a1e44",
-			"type":"text",
-			"text":"[[Удар с финтом|Приём: Удар с финтом]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-140,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"9d0f99b08ec548bd",
-			"type":"text",
-			"text":"[[Захват клинка|Приём: Захват клинка]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":-20,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"0a5c81b7a94aad42",
-			"type":"text",
-			"text":"[[Удар с подсечкой|Приём: Удар с подсечкой]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":100,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"4d031204988cc14a",
-			"type":"text",
-			"text":"[[Удар плашмя|Приём: Удар плашмя]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1560,
-			"y":220,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"62e921b06dd192bd",
-			"type":"text",
-			"text":"[[Владение Рубящим оружием]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1160,
-			"y":-580,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"7f27b12ed4fb9f59",
-			"type":"text",
-			"text":"[[Владение Дробящим оружием]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1160,
-			"y":-460,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"d8222c1d0161cfc3",
-			"type":"text",
-			"text":"[[Владение Древковым оружием]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1155,
-			"y":-700,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"b58acc2c21b28763",
-			"type":"text",
-			"text":"[[Физическая подготовка]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1155,
-			"y":-340,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"bc86308a1563a1b5",
-			"type":"text",
-			"text":"[[Владение Клинковым оружием]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1155,
-			"y":-220,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"085bfce631413225",
-			"type":"text",
-			"text":"[[Познание Арканных наук]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1200,
-			"y":-740,
-			"width":250,
-			"height":80,
-			"color":"5"
-		},
-		{
 			"id":"56f929166a8e2953",
 			"type":"text",
 			"text":"[[Познание Точных наук]]",
@@ -376,51 +106,6 @@
 			"width":250,
 			"height":80,
 			"color":"5"
-		},
-		{
-			"id":"17dcadc9fa16c292",
-			"type":"text",
-			"text":"[[Лёгкие ноги]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1155,
-			"y":-100,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"8349bfffc85fb639",
-			"type":"text",
-			"text":"[[Тихий шаг]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1155,
-			"y":20,
-			"width":250,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"1650528ea2fc7578",
-			"type":"text",
-			"text":"[[Манёвренность]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1155,
-			"y":140,
-			"width":250,
-			"height":80,
-			"color":"1"
 		},
 		{"id":"7bbce457b8f288a5","type":"file","file":"Энтропия/Система/Аспекты/Аспект Души/Аспект души.md","x":-80,"y":600,"width":400,"height":400,"color":"4"},
 		{"id":"4209d14ff2276b4a","type":"file","file":"Энтропия/Система/Аспекты/Аспект Разума/Аспект разума.md","x":640,"y":-660,"width":400,"height":400,"color":"5"},
@@ -485,51 +170,6 @@
 			"color":"4"
 		},
 		{
-			"id":"ad026b3b860f9962",
-			"type":"text",
-			"text":"[[Чувство мироздания]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-840,
-			"y":1080,
-			"width":250,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"0a65db246e422ffc",
-			"type":"text",
-			"text":"[[Линиия |Модификатор: Линия]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1320,
-			"y":1320,
-			"width":250,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"e96a68cad959792e",
-			"type":"text",
-			"text":"[[Аура|Модификатор: Аура]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1320,
-			"y":1560,
-			"width":250,
-			"height":80,
-			"color":"4"
-		},
-		{
 			"id":"9b7d16ff219c7f47",
 			"type":"text",
 			"text":"[[Дальность|Модификатор: Дальность]]",
@@ -538,8 +178,23 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":-1320,
+			"x":-1660,
 			"y":1680,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"79783fc0188ea208",
+			"type":"text",
+			"text":"[[Касание |Модификатор: Касание]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1660,
+			"y":1800,
 			"width":250,
 			"height":80,
 			"color":"4"
@@ -553,7 +208,7 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":-1320,
+			"x":-1660,
 			"y":1920,
 			"width":250,
 			"height":80,
@@ -568,7 +223,7 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":-1320,
+			"x":-1660,
 			"y":2040,
 			"width":250,
 			"height":80,
@@ -583,8 +238,23 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":-1320,
+			"x":-1660,
 			"y":2160,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"0a65db246e422ffc",
+			"type":"text",
+			"text":"[[Линиия |Модификатор: Линия]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1660,
+			"y":1320,
 			"width":250,
 			"height":80,
 			"color":"4"
@@ -598,98 +268,38 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":-1320,
+			"x":-1660,
 			"y":1440,
 			"width":250,
 			"height":80,
 			"color":"4"
 		},
 		{
-			"id":"445b9ed00d0e81e8",
+			"id":"e96a68cad959792e",
 			"type":"text",
-			"text":"[[Кипячение]]",
+			"text":"[[Аура|Модификатор: Аура]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":-1000,
-			"y":1320,
+			"x":-1660,
+			"y":1560,
 			"width":250,
 			"height":80,
 			"color":"4"
-		},
-		{
-			"id":"79783fc0188ea208",
-			"type":"text",
-			"text":"[[Касание |Модификатор: Касание]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1320,
-			"y":1800,
-			"width":250,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"b763637b550159e4",
-			"type":"text",
-			"text":"[[Криокинез]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":-1000,
-			"y":1440,
-			"width":250,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"4c9a81b4f8d9f780",
-			"type":"text",
-			"text":"[[Термодинамика]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1560,
-			"y":-1100,
-			"width":250,
-			"height":80,
-			"color":"5"
 		},
 		{
 			"id":"9178a5f8958a36f8",
 			"type":"text",
-			"text":"[[Смешивание]]",
+			"text":"[[Флюидология]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":1560,
-			"y":-980,
-			"width":250,
-			"height":80,
-			"color":"5"
-		},
-		{
-			"id":"de10b8479fdda27a",
-			"type":"text",
-			"text":"[[Теплопроводимость]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1560,
-			"y":-860,
+			"x":1720,
+			"y":-1380,
 			"width":250,
 			"height":80,
 			"color":"5"
@@ -703,8 +313,83 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":1560,
-			"y":-740,
+			"x":1720,
+			"y":-1140,
+			"width":250,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"4c9a81b4f8d9f780",
+			"type":"text",
+			"text":"[[Термодинамика]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1720,
+			"y":-1260,
+			"width":250,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"085bfce631413225",
+			"type":"text",
+			"text":"[[Познание Арканных наук]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1200,
+			"y":-1060,
+			"width":250,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"04daae5324108590",
+			"type":"text",
+			"text":"[[Поверхностное натяжение]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1720,
+			"y":-1020,
+			"width":250,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"6d436806e1ebd76b",
+			"type":"text",
+			"text":"[[Осмос]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1720,
+			"y":-900,
+			"width":250,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"a3016b46f8f652a9",
+			"type":"text",
+			"text":"[[Гидродинамика]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1720,
+			"y":-780,
 			"width":250,
 			"height":80,
 			"color":"5"
@@ -718,29 +403,696 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":1560,
-			"y":-620,
+			"x":1720,
+			"y":-660,
 			"width":250,
 			"height":80,
 			"color":"5"
 		},
 		{
-			"id":"04daae5324108590",
+			"id":"b58acc2c21b28763",
 			"type":"text",
-			"text":"[[]]",
+			"text":"[[Физическая подготовка]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":1560,
-			"y":-500,
+			"x":-1155,
+			"y":-1400,
 			"width":250,
 			"height":80,
-			"color":"5"
+			"color":"1"
+		},
+		{
+			"id":"1650528ea2fc7578",
+			"type":"text",
+			"text":"[[Манёвренность]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1560,
+			"y":-1280,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"17dcadc9fa16c292",
+			"type":"text",
+			"text":"[[Лёгкие ноги]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1560,
+			"y":-1520,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"8349bfffc85fb639",
+			"type":"text",
+			"text":"[[Тихий шаг]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1560,
+			"y":-1400,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"e88ec3135090a00c",
+			"type":"text",
+			"text":"[[Удар с выпадом|Приём: Удар с выпадом]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-340,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"68795e9c223a1e44",
+			"type":"text",
+			"text":"[[Удар с финтом|Приём: Удар с финтом]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-220,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"9d0f99b08ec548bd",
+			"type":"text",
+			"text":"[[Захват клинка|Приём: Захват клинка]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-100,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"0a5c81b7a94aad42",
+			"type":"text",
+			"text":"[[Удар с подсечкой|Приём: Удар с подсечкой]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":20,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"4d031204988cc14a",
+			"type":"text",
+			"text":"[[Удар плашмя|Приём: Удар плашмя]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":140,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"d348357fb5d00047",
+			"type":"text",
+			"text":"[[Удар по клинку|Приём: Удар по клинку]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-700,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"8b31d55be1661dd2",
+			"type":"text",
+			"text":"[[Удар с шагом назад|Приём: Удар с шагом назад]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-580,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"474035440e2cbc06",
+			"type":"text",
+			"text":"[[Косой удар|Приём: Косой удар]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-460,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"fe0c775d91e9a036",
+			"type":"text",
+			"text":"[[Восходящий удар|Приём: Восходящий удар]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-1060,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"1560ab426d2ff87d",
+			"type":"text",
+			"text":"[[Нисходящий удар|Приём: Нисходящий удар]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-940,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"2ba14f369b6c0611",
+			"type":"text",
+			"text":"[[Удар с толчком|Приём: Удар с толчком]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-2000,
+			"y":-820,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"d8222c1d0161cfc3",
+			"type":"text",
+			"text":"[[Владение Древковым оружием]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1635,
+			"y":-680,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"62e921b06dd192bd",
+			"type":"text",
+			"text":"[[Владение Рубящим оружием]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1640,
+			"y":-560,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"7f27b12ed4fb9f59",
+			"type":"text",
+			"text":"[[Владение Дробящим оружием]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1640,
+			"y":-440,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"561c663eb0c963c2",
+			"type":"text",
+			"text":"[[Владение Метательным оружием]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1635,
+			"y":-800,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"bc86308a1563a1b5",
+			"type":"text",
+			"text":"[[Владение Клинковым оружием]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1635,
+			"y":-320,
+			"width":250,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"b763637b550159e4",
+			"type":"text",
+			"text":"[[Криокинез|Модификатор: Криокинез]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1000,
+			"y":1680,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"9fa035392cdfb2ea",
+			"type":"text",
+			"text":"[[Изучение жидкости|Модификатор: Изучение жидкости]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1000,
+			"y":1800,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"04d073cb2806970f",
+			"type":"text",
+			"text":"[[Власть над жидкостью|Модификатор: Власть над жидкостью]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1000,
+			"y":1920,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"4bdbd81749242335",
+			"type":"text",
+			"text":"[[Водяной барьер|Модификатор: Водяной барьер]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1000,
+			"y":2160,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"a501f9c4b0224136",
+			"type":"text",
+			"text":"[[Иссушение|Модификатор: Иссушение]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1000,
+			"y":2280,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"a32188aec93aa46f",
+			"type":"text",
+			"text":"[[Напор |Модификатор: Напор]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1000,
+			"y":2037,
+			"width":250,
+			"height":83,
+			"color":"4"
+		},
+		{
+			"id":"445b9ed00d0e81e8",
+			"type":"text",
+			"text":"[[Кипячение|Модификатор: Кипячение]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-1000,
+			"y":1560,
+			"width":250,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"ad026b3b860f9962",
+			"type":"text",
+			"text":"[[Чувство мироздания]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-840,
+			"y":840,
+			"width":250,
+			"height":80,
+			"color":"4"
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"67edbeb7f1d2ceb4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"085bfce631413225",
+			"fromSide":"right",
+			"toNode":"9178a5f8958a36f8",
+			"toSide":"left"
+		},
+		{
+			"id":"4e3cc6f414be0c31",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"085bfce631413225",
+			"fromSide":"right",
+			"toNode":"4c9a81b4f8d9f780",
+			"toSide":"left"
+		},
+		{
+			"id":"e12f7183633531d5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"085bfce631413225",
+			"fromSide":"right",
+			"toNode":"e75f719399a2b604",
+			"toSide":"left"
+		},
+		{
+			"id":"e8ee7671b54757fc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"085bfce631413225",
+			"fromSide":"right",
+			"toNode":"04daae5324108590",
+			"toSide":"left"
+		},
+		{
+			"id":"74ea32e9bab45493",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"085bfce631413225",
+			"fromSide":"right",
+			"toNode":"6d436806e1ebd76b",
+			"toSide":"left"
+		},
+		{
+			"id":"07ee926da23bde8b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"085bfce631413225",
+			"fromSide":"right",
+			"toNode":"a3016b46f8f652a9",
+			"toSide":"left"
+		},
+		{
+			"id":"4d52eb5625b30d07",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"56f929166a8e2953",
+			"fromSide":"right",
+			"toNode":"9f20b232183641d9",
+			"toSide":"left"
+		},
+		{
+			"id":"514b4386a72b89ec",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b58acc2c21b28763",
+			"fromSide":"left",
+			"toNode":"17dcadc9fa16c292",
+			"toSide":"right"
+		},
+		{
+			"id":"d3afbffa9853a340",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b58acc2c21b28763",
+			"fromSide":"left",
+			"toNode":"8349bfffc85fb639",
+			"toSide":"right"
+		},
+		{
+			"id":"e2b5a7d8479076ec",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b58acc2c21b28763",
+			"fromSide":"left",
+			"toNode":"1650528ea2fc7578",
+			"toSide":"right"
+		},
+		{
+			"id":"0daed8b7a40bfee0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60f3d2d7fb060f7d",
+			"fromSide":"bottom",
+			"toNode":"445b9ed00d0e81e8",
+			"toSide":"left"
+		},
+		{
+			"id":"92236db68a1be098",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60f3d2d7fb060f7d",
+			"fromSide":"bottom",
+			"toNode":"b763637b550159e4",
+			"toSide":"left"
+		},
+		{
+			"id":"52d51fb568b785d8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60f3d2d7fb060f7d",
+			"fromSide":"bottom",
+			"toNode":"9fa035392cdfb2ea",
+			"toSide":"left"
+		},
+		{
+			"id":"7a4dba041f83d3f1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60f3d2d7fb060f7d",
+			"fromSide":"bottom",
+			"toNode":"04d073cb2806970f",
+			"toSide":"left"
+		},
+		{
+			"id":"9f49336493733751",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60f3d2d7fb060f7d",
+			"fromSide":"bottom",
+			"toNode":"a32188aec93aa46f",
+			"toSide":"left"
+		},
+		{
+			"id":"ef055d1b6ebf96f0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60f3d2d7fb060f7d",
+			"fromSide":"bottom",
+			"toNode":"4bdbd81749242335",
+			"toSide":"left"
+		},
+		{
+			"id":"d613696f8814533f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60f3d2d7fb060f7d",
+			"fromSide":"bottom",
+			"toNode":"a501f9c4b0224136",
+			"toSide":"left"
+		},
+		{
+			"id":"000ce671ea6b0c6d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"0a65db246e422ffc",
+			"toSide":"right"
+		},
+		{
+			"id":"4987db53f86fc50b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"e96a68cad959792e",
+			"toSide":"right"
+		},
+		{
+			"id":"587fb79493b281fc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"b4f2a3f2f5eeec7e",
+			"toSide":"right"
+		},
+		{
+			"id":"e635278398cbaba9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"9b7d16ff219c7f47",
+			"toSide":"right"
+		},
+		{
+			"id":"715e7ee20aaa0cad",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"79783fc0188ea208",
+			"toSide":"right"
+		},
+		{
+			"id":"cd3b4da283224f3b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"7e9a0a0818ddc958",
+			"toSide":"right"
+		},
+		{
+			"id":"172b9486c39acb72",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"b2632daf43156bff",
+			"toSide":"right"
+		},
+		{
+			"id":"b1cf862c7169086e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"00959016de46ff25",
+			"toSide":"right"
+		},
+		{
+			"id":"7fd8ec108c0dd266",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"c38173d15ca63896",
+			"toSide":"top"
+		},
+		{
+			"id":"20adcb3d0e9483d8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"60f3d2d7fb060f7d",
+			"toSide":"top"
+		},
+		{
+			"id":"6f186f9254b8119d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"f1b678e44db25242",
+			"toSide":"top"
+		},
+		{
+			"id":"9ea6829cb0cf62d1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad026b3b860f9962",
+			"fromSide":"bottom",
+			"toNode":"76c7fa04242162d0",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
